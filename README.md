@@ -4,7 +4,7 @@
 
 This project demonstrates a microservices architecture using Spring Boot and Spring Cloud. The system is composed of several interconnected services that work together to provide a scalable and maintainable application.
 
-![Architecture Diagram](./screenshot/architecture_diagram.png)
+![Architecture Diagram](./screenshot/architecture.png)
 
 ## Key Components
 
