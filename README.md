@@ -16,6 +16,10 @@ This project demonstrates a microservices architecture using Spring Boot and Spr
 6. Notification Service
 7. Frontend (Angular)
 
+## Description
+
+This project implements a food delivery system using microservices architecture. Each service is responsible for a specific domain:
+
 - **API Gateway**: Acts as a single entry point for all client requests, routing them to appropriate services.
 - **Eureka Service Discovery**: Allows services to find and communicate with each other without hard-coding hostname and port.
 - **User Service**: Manages user accounts and authentication.
